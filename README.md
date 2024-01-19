@@ -10,7 +10,7 @@ Det här är roligt
 
 - Gjort en README file
 
-- Byt teman
+- Bytt teman
 
 ### Bash commandon
 
